@@ -1,0 +1,9 @@
+# Telegram Bot Configuration
+# Replace with your actual bot token from @BotFather
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+
+# Optional: Set to True to enable debug logging
+DEBUG=False
+
+# Optional: Set to True to enable more verbose spam detection
+VERBOSE_SPAM_DETECTION=False 
